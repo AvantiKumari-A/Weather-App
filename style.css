@@ -7,8 +7,8 @@
 body{
     background-color:black;
 }
-h1{
-    color: navy;
+.start{
+    color: cadetblue;
     text-align: center;
     margin: 20px;
 }
