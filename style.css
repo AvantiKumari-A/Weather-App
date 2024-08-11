@@ -7,14 +7,6 @@
 body{
     background-color:black;
 }
-hr{
-    color: darkolivegreen;
-}
-h1{
-    color: darkblue;
-    text-align: center;
-    margin: 40px;
-}
 .card{
     width: 90%;
     max-width: 470px;
